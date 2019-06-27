@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "Brand": "Audi",
+      "Description": "Is a German global automobile marque and a division of Daimler AG. The brand is known for luxury vehicles, buses, coaches, and trucks. The headquarters is in Stuttgart, Baden-Württemberg. The name first appeared in 1926 under Daimler-Benz. In 2018, Mercedes-Benz was the biggest selling premium vehicle brand in the world, having sold 2.31 million passenger cars."
+    },
+    {
+      "id": 2,
+      "Brand": "Roewe",
+      "Description": "Roewe is a vehicle marque created by the Chinese automaker SAIC Motor in 2006. Roewe vehicles were initially based on technology acquired from defunct British carmaker MG Rover. SAIC was unable to purchase the rights to the Rover brand name and created the Roewe marque as a replacement."
+    },
+    {
+      "id": 3,
+      "Brand": "Datsun",
+      "Description": "Datsun is an automobile brand owned by Nissan. Datsun's original production run began in 1931. From 1958 to 1986, only vehicles exported by Nissan were identified as Datsun"
+    }
+]
